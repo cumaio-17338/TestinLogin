@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">TestinLogin</string>
+    <string name="application_name">IPBeja Recicla</string>
+    <string name="register">REGISTAR</string>
+    <string name="login">LOGIN</string>
+    <string name="new_user_register_here">NOVO UTILIZADOR? REGISTE-SE AQUI!</string>
+
+    <string-array name="spinner_capacidade">
+    <item> Capacidade (L)</item>
+    <item> 0.25 </item>
+    <item> 0.33 </item>
+    <item> 0.5 </item>
+    <item> 1 </item>
+    <item> 1.5 </item>
+    <item> 2 </item>
+    <item> 5 </item>
+    <item> 6 </item>
+    </string-array>
+
+    <string-array name="spinner_tipo">
+    <item> Tipo de garrafa </item>
+    <item> Água </item>
+    <item> Refrigerante </item>
+    </string-array>
+
+    <string-array name="spinner_descrição">
+        <item> Material da garrafa </item>
+        <item> Garrafa plástica </item>
+        <item> Garrafa de vidro </item>
+        <item> Garrafa de papel </item>
+        <item> Garrafa de metal </item>
+    </string-array>
+
+
+
+</resources>
